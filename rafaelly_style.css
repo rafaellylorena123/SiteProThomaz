@@ -1,0 +1,26 @@
+.titulo {
+    border-radius: 50px;
+    width: auto;
+    height: auto;
+    text-align: center;
+    font-size: 300%;
+    background-color: rgb(255, 181, 181);
+    padding: 20px;
+}
+
+.tudo {
+    font-size: 200%;
+}
+
+body {
+    background-color: #ff8484;
+}
+
+.bio {
+    width: auto;
+    height: auto;
+    border-radius: 50px;
+    background-color: rgb(255, 181, 181);
+    padding: 20px;
+    margin: 20px;
+}
